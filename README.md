@@ -1,9 +1,9 @@
-## webpack-tailwind-babel-boilerplate
+# webpack-tailwind-babel-boilerplate
 webpack-tailwind-babel-boilerplate is a fully configured boilerplate repository with webpack, Babel and Tailwind CSS as well as all of the required loaders.
 
 webpack-tailwind-babel-boilerplate consists of 2 webpack configs - production and development. This repo uses webpack caching and Tailwind purge to delete unused CSS and keep the distribution files small.
 
-##Usage:
+## Usage:
 1. 	Clone the repository.
 
 2. 	Run  `npm install` inside the cloned repository.
